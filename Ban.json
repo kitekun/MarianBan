@@ -1,10 +1,6 @@
-[
-  {
-    id: "593785946",
-    reason: "Fucking bitch"
-  },
-  {
-    id: "72282292938",
-    reason: "test"
-  }
-]
+{
+"593785946": {
+        "reason": "TEST",
+        "dateAdded": "2024"
+    }
+}
